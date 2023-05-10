@@ -1,0 +1,25 @@
+SISTEM INFORMASI ANGKRINGAN MAJALENGKA
+oleh : DEDE RISKA AMALIA
+
+= BUAT FOLDER pada HTDOCS dengan nama SIANGK 
+	Simpan semua file project di folder SIANGK
+
+= IMPORT DATABASE ======
+	buat database dengan nama : db_angkringan
+	buka database db_angkringan
+	import file sql yang terdapat pada folder database
+		import file db_angkringan.sql yang ada pada folder database
+
+= Akses Login
+	buka http://localhost/SIANGK/Auth
+	anda akan diarahkan ke halaman login sistem
+	Login sebagai Admin
+		username : 
+		password : 
+	Login sebagai Member
+		username : 
+		password : 
+	
+By @radh_nacl
+Andi Alfian
+2023-03-19
