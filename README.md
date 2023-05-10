@@ -22,6 +22,7 @@ Sistem Informasi Angkringan Majalengka adalah sistem informasi tentang Angkringa
 		Sebagai Pemilik Angkringan <br>
 			username : didi <br>
 			password : didi <br>
+- Fitur Lupa password dapat berfungsi ketika sistem sudah di upload ke hosting yang berbayar.
 
 ## Supported Browsers:
 - Chrome 35+
